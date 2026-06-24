@@ -30,7 +30,7 @@ I enjoy creating modern, user-friendly, and responsive websites. I'm continuousl
   <a href="https://github.com/sebaisiwwar">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/yourprofilee">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
